@@ -1,0 +1,36 @@
+export { default as img1 } from "./a64b345016e96adfb8849af5521c8e0ecfe8f027-555x555.webp";
+export { default as earphones_a_1 } from "./earphones_a_1.webp";
+export { default as earphones_a_2 } from "./earphones_a_2.webp";
+export { default as earphones_a_3 } from "./earphones_a_3.webp";
+export { default as earphones_a_4 } from "./earphones_a_4.webp";
+export { default as earphones_b_1 } from "./earphones_b_1.webp";
+export { default as earphones_b_2 } from "./earphones_b_2.webp";
+export { default as earphones_b_3 } from "./earphones_b_3.webp";
+export { default as earphones_b_4 } from "./earphones_b_4.webp";
+export { default as earphones_c_1 } from "./earphones_c_1.webp";
+export { default as earphones_c_2 } from "./earphones_c_2.webp";
+export { default as earphones_c_3 } from "./earphones_c_3.webp";
+export { default as earphones_c_4 } from "./earphones_c_4.webp";
+export { default as headphones_a_1 } from "./headphones_a_1.webp";
+export { default as headphones_a_2 } from "./headphones_a_2.webp";
+export { default as headphones_a_3 } from "./headphones_a_3.webp";
+export { default as headphones_a_4 } from "./headphones_a_4.webp";
+export { default as headphones_b_1 } from "./headphones_b_1.webp";
+export { default as headphones_b_2 } from "./headphones_b_2.webp";
+export { default as headphones_b_3 } from "./headphones_b_3.webp";
+export { default as headphones_b_4 } from "./headphones_b_4.webp";
+export { default as headphones_c_1 } from "./headphones_c_1.webp";
+export { default as headphones_c_2 } from "./headphones_c_2.webp";
+export { default as headphones_c_3 } from "./headphones_c_3.webp";
+export { default as headphones_c_4 } from "./headphones_c_4.webp";
+export { default as speaker1 } from "./speaker1.webp";
+export { default as speaker2 } from "./speaker2.webp";
+export { default as speaker3 } from "./speaker3.webp";
+export { default as speaker4 } from "./speaker4.webp";
+export { default as watch_1 } from "./watch_1.webp";
+export { default as watch_2 } from "./watch_2.webp";
+export { default as watch_3 } from "./watch_3.webp";
+export { default as watch_4 } from "./watch_4.webp";
+
+
+// import { img1, earphones_a_1, earphones_a_2,  earphones_a_3,  earphones_a_4,  earphones_b_1,  earphones_b_2,   earphones_b_3,  earphones_b_4,  earphones_c_1,  earphones_c_2,  earphones_c_3,  earphones_c_4,  headphones_a_1,   headphones_a_2,  headphones_a_3,   headphones_a_4,  headphones_b_1,   headphones_b_2,   headphones_b_3,   headphones_b_4,  headphones_c_1,   headphones_c_2,   headphones_c_3,   headphones_c_4,  speaker1,   speaker2,   speaker3,   speaker4,  watch_1,   watch_2,   watch_3,   watch_4} from './images';
